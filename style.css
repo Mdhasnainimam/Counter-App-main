@@ -1,0 +1,91 @@
+       *{
+        margin: 0%;
+        padding: 0%;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+
+    h1 {
+        margin: auto;
+        color: #44ff00;
+        text-align: center;
+        font-size: 45px;
+        ;
+    }
+
+    p {
+        margin: auto;
+        /* color: rgb(42, 165, 48); */
+        text-align: center;
+        font-size: 80px;
+        color: yellow;
+        font-weight: 600;
+    }
+
+    .buttonall {
+        margin: auto;
+        text-align: center;
+
+    }
+
+    button {
+        font-size: 30px;
+        border: 1px solid black;
+        border-radius: 5px;
+        padding-left: 2px;
+        cursor: pointer;
+    }
+
+    .increament {
+        background-color: yellow;
+        padding: 2px;
+        font-size: 25px;
+        color: black;
+        border: 2px solid black;
+        border-radius: 15px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .reset {
+        background-color: greenyellow;
+        padding: 2px;
+        font-size: 25px;
+        color: black;
+        border: 2px solid black;
+        border-radius: 15px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .decrement {
+        background-color: aqua;
+        padding: 2px;
+        font-size: 25px;
+        color: black;
+        border: 2px solid black;
+        border-radius: 15px;
+        font-weight: bold;
+        align-items: center;
+        word-spacing: normal;
+
+    }
+
+    .centre {
+        /* display: flex; */
+        justify-content: center;
+        align-items: center; 
+        background-color: indigo;
+        width: 600px;
+        height: 300px;
+        border-radius: 15px;
+        margin-left: 27%;
+        margin-top: 10%;
+        margin-bottom: 15%;
+        padding-top: 100px;
+
+       
+    }
+
+    body{
+        background-color: aqua;
+    }
